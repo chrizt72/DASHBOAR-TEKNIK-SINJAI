@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KEYPOINT SINJAI.kml</name>
+	<visibility>0</visibility>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	<Schema name="Copy of Keypoint Sinjai" id="S_Copy_of_Keypoint_Sinjai_SSS00">
+		<SimpleField type="string" name="unnamed">
+			<displayName>&lt;b&gt;&lt;/b&gt;</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="unnamed_2">
+			<displayName>&lt;b&gt;&lt;/b&gt;</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="unnamed_3">
+			<displayName>&lt;b&gt;&lt;/b&gt;</displayName>
+		</SimpleField>
+	</Schema>
+	<Schema name="Copy of Keypoint Sinjai" id="S_Copy_of_Keypoint_Sinjai_SSS1">
+		<SimpleField type="string" name="unnamed">
+			<displayName>&lt;b&gt;&lt;/b&gt;</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="unnamed_2">
+			<displayName>&lt;b&gt;&lt;/b&gt;</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="unnamed_3">
+			<displayName>&lt;b&gt;&lt;/b&gt;</displayName>
+		</SimpleField>
+	</Schema>
+	<Schema name="Copy of LBS %26 SECT ULP SINJAI" id="S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+		<SimpleField type="string" name="unnamed">
+			<displayName>&lt;b&gt;&lt;/b&gt;</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="unnamed_2">
+			<displayName>&lt;b&gt;&lt;/b&gt;</displayName>
+		</SimpleField>
+		<SimpleField type="string" name="unnamed_3">
+			<displayName>&lt;b&gt;&lt;/b&gt;</displayName>
+		</SimpleField>
+	</Schema>
+	<Style id="hlightPointStyle0004000">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b></b></td><td>$[Copy of Keypoint Sinjai/unnamed]</td></tr>
+  <tr><td><b></b></td><td>$[Copy of Keypoint Sinjai/unnamed_2]</td></tr>
+  <tr><td><b></b></td><td>$[Copy of Keypoint Sinjai/unnamed_3]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="hlightPointStyle0010411">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b></b></td><td>$[Copy of LBS %26 SECT ULP SINJAI/unnamed]</td></tr>
+  <tr><td><b></b></td><td>$[Copy of LBS %26 SECT ULP SINJAI/unnamed_2]</td></tr>
+  <tr><td><b></b></td><td>$[Copy of LBS %26 SECT ULP SINJAI/unnamed_3]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="hlightPointStyle0010412">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b></b></td><td>$[Copy of LBS %26 SECT ULP SINJAI/unnamed]</td></tr>
+  <tr><td><b></b></td><td>$[Copy of LBS %26 SECT ULP SINJAI/unnamed_2]</td></tr>
+  <tr><td><b></b></td><td>$[Copy of LBS %26 SECT ULP SINJAI/unnamed_3]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin84">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin111</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl160</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_P10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_P</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_P1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_open-diamond0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_open-diamond00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_open-diamond00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_open-diamond0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_square20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_square40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_square_highlight20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_square3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_square20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_square_highlight40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_square4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_square30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_square_highlight30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_square900">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_square900</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_square900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_target5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_target5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_target4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="normPointStyle00100102101">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b></b></td><td>$[Copy of LBS %26 SECT ULP SINJAI/unnamed]</td></tr>
+  <tr><td><b></b></td><td>$[Copy of LBS %26 SECT ULP SINJAI/unnamed_2]</td></tr>
+  <tr><td><b></b></td><td>$[Copy of LBS %26 SECT ULP SINJAI/unnamed_3]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="normPointStyle001001021010">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b></b></td><td>$[Copy of LBS %26 SECT ULP SINJAI/unnamed]</td></tr>
+  <tr><td><b></b></td><td>$[Copy of LBS %26 SECT ULP SINJAI/unnamed_2]</td></tr>
+  <tr><td><b></b></td><td>$[Copy of LBS %26 SECT ULP SINJAI/unnamed_3]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="normPointStyle20000">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b></b></td><td>$[Copy of Keypoint Sinjai/unnamed]</td></tr>
+  <tr><td><b></b></td><td>$[Copy of Keypoint Sinjai/unnamed_2]</td></tr>
+  <tr><td><b></b></td><td>$[Copy of Keypoint Sinjai/unnamed_3]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="pointStyleMap00200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normPointStyle20000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hlightPointStyle0004000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="pointStyleMap6100101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normPointStyle001001021010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hlightPointStyle0010411</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="pointStyleMap61001010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normPointStyle00100102101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hlightPointStyle0010412</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin111">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl160">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_P1">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_open-diamond1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_square_highlight20">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_square_highlight30">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_placemark_square_highlight40">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_square900">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_target4">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_P">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/polygon.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_open-diamond00">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_square20">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_square30">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_placemark_square40">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_square900">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_target5">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>KEYPOINT</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>DS OUT BIKERU</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>120.2514432316252</longitude>
+				<latitude>-5.121232910777649</latitude>
+				<altitude>0</altitude>
+				<heading>1.756005543643389</heading>
+				<tilt>0</tilt>
+				<range>39.81407197593643</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_target5</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>120.2514197265327,-5.121209548244849,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>LBS MTZ</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>SECT BAKSO</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap61001010</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">SECT BAKSO</SimpleData>
+						<SimpleData name="unnamed_2">-5.205295</SimpleData>
+						<SimpleData name="unnamed_3">120.177878</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.177878,-5.205295000000014,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SECT ASSIPETUNGE (NO)</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap61001010</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_Keypoint_Sinjai_SSS00">
+						<SimpleData name="unnamed">RECLOSER ASSIPETUNGE</SimpleData>
+						<SimpleData name="unnamed_2">-5.325178</SimpleData>
+						<SimpleData name="unnamed_3">120.089741</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.0898120734678,-5.325157912116381,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SECT TUI</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap61001010</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">SECT TUI</SimpleData>
+						<SimpleData name="unnamed_2">-5.13626</SimpleData>
+						<SimpleData name="unnamed_3">120.259199</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.259199,-5.136259999999984,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SECT BIRINGERE</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap61001010</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">SECT BIRING ERE</SimpleData>
+						<SimpleData name="unnamed_2">-5.135656</SimpleData>
+						<SimpleData name="unnamed_3">120.249013</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.249013,-5.135656000000008,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SECT SUNGAI TANGKA</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap61001010</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">SECT SUNGAI TANGKA</SimpleData>
+						<SimpleData name="unnamed_2">-5.115712</SimpleData>
+						<SimpleData name="unnamed_3">120.259017</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.259017,-5.115711999999995,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SECT LAPPA</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap61001010</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">SECT LAPPA</SimpleData>
+						<SimpleData name="unnamed_2">-5.116458</SimpleData>
+						<SimpleData name="unnamed_3">120.26379</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.26379,-5.116457999999988,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SECT PRAMUKA</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap61001010</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">SECT PRAMUKA</SimpleData>
+						<SimpleData name="unnamed_2">-5.118212</SimpleData>
+						<SimpleData name="unnamed_3">120.256653</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.256653,-5.118211999999991,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SECT LANCIBUNG 1</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap61001010</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">SECT LANCIBUNG 1</SimpleData>
+						<SimpleData name="unnamed_2">-5.210296</SimpleData>
+						<SimpleData name="unnamed_3">120.177034</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.177034,-5.21029599999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SECT SAOHIRING</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap61001010</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">SECT SAOHIRING</SimpleData>
+						<SimpleData name="unnamed_2">-5.205295</SimpleData>
+						<SimpleData name="unnamed_3">120.177878</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.111289692573,-5.191216223561867,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SECT BONDU</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap61001010</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">SECT BONDU</SimpleData>
+						<SimpleData name="unnamed_2">-5.233757</SimpleData>
+						<SimpleData name="unnamed_3">120.013956</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.013956,-5.233756999999994,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>REC</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>REC MUSABAQAH</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap00200</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_Keypoint_Sinjai_SSS1">
+						<SimpleData name="unnamed">RECLOSER MUSABAQAH</SimpleData>
+						<SimpleData name="unnamed_2">-5.191152</SimpleData>
+						<SimpleData name="unnamed_3">120.11152</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.11152,-5.191151999999981,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>REC BALPES</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>120.1524200819444</longitude>
+					<latitude>-5.290559095644193</latitude>
+					<altitude>0</altitude>
+					<heading>0.4473702942560643</heading>
+					<tilt>0</tilt>
+					<range>654.0435412215222</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#pointStyleMap00200</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>120.1505991168276,-5.290494878322808,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>REC SAMAENRE (RUSAK)</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap00200</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_Keypoint_Sinjai_SSS00">
+						<SimpleData name="unnamed">RECLOSER SAMAENRE</SimpleData>
+						<SimpleData name="unnamed_2">-5.156189</SimpleData>
+						<SimpleData name="unnamed_3">120.178112</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.178112,-5.156189000000015,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>REC MARANA</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap00200</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_Keypoint_Sinjai_SSS00">
+						<SimpleData name="unnamed">RECLOSER MARANA</SimpleData>
+						<SimpleData name="unnamed_2">-5.179404</SimpleData>
+						<SimpleData name="unnamed_3">120.276963</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.276963,-5.17940400000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>REC TALLE</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>120.1561065125036</longitude>
+					<latitude>-5.171011929416611</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001887587463005829</heading>
+					<tilt>0</tilt>
+					<range>626.2422722023076</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#pointStyleMap00200</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>120.1556908377567,-5.171084125050585,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>REC TONDONG</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap00200</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_Keypoint_Sinjai_SSS00">
+						<SimpleData name="unnamed">RECLOSER TONDONG</SimpleData>
+						<SimpleData name="unnamed_2">-5.151202</SimpleData>
+						<SimpleData name="unnamed_3">120.220715</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.220715,-5.151202000000019,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>REC KAROBBI</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap00200</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_Keypoint_Sinjai_SSS00">
+						<SimpleData name="unnamed">RECLOSER KAROBBI</SimpleData>
+						<SimpleData name="unnamed_2">-5.168757</SimpleData>
+						<SimpleData name="unnamed_3">120.151018</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.151018,-5.168757000000008,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>REC PERSATUAN RAYA</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap00200</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_Keypoint_Sinjai_SSS1">
+						<SimpleData name="unnamed">RECLOSER PERSATUAN RAYA</SimpleData>
+						<SimpleData name="unnamed_2">-5.120201</SimpleData>
+						<SimpleData name="unnamed_3">120.255428</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.2556056281975,-5.120578210197126,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>REC BULUPODDO</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap00200</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_Keypoint_Sinjai_SSS1">
+						<SimpleData name="unnamed">RECLOSER BULUPODDO</SimpleData>
+						<SimpleData name="unnamed_2">-5.105282</SimpleData>
+						<SimpleData name="unnamed_3">120.226097</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.226097,-5.105281999999982,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>REC MUNTE</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap00200</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS MUNTE</SimpleData>
+						<SimpleData name="unnamed_2">-5.347032</SimpleData>
+						<SimpleData name="unnamed_3">120.070375</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.070375,-5.347032000000008,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>REC GUNUNG PERAK</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_square900</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS GUNUNG PERAK</SimpleData>
+						<SimpleData name="unnamed_2">-5.254096</SimpleData>
+						<SimpleData name="unnamed_3">120.007194</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.007194,-5.254095999999997,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>REC KALOBBA (NC)</name>
+				<visibility>0</visibility>
+				<description>NC</description>
+				<styleUrl>#pointStyleMap00200</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS JATIE</SimpleData>
+						<SimpleData name="unnamed_2">-5.274064</SimpleData>
+						<SimpleData name="unnamed_3">120.163485</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.163485,-5.274064000000019,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="layer 0">
+			<name>LBS</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>LBS SMA</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>120.2482745064022</longitude>
+					<latitude>-5.13696437364788</latitude>
+					<altitude>0</altitude>
+					<heading>14.00280738270252</heading>
+					<tilt>0</tilt>
+					<range>306.8723396552189</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>120.2476518952296,-5.136910860768542,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS TALLE</name>
+				<visibility>0</visibility>
+				<description>NO</description>
+				<LookAt>
+					<longitude>120.1558226017749</longitude>
+					<latitude>-5.173160470722118</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01764312821098724</heading>
+					<tilt>0</tilt>
+					<range>85.02008576855532</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>120.155793880912,-5.173245404337061,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS EXPRESS</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS EXPRESS</SimpleData>
+						<SimpleData name="unnamed_2">-5.16038</SimpleData>
+						<SimpleData name="unnamed_3">120.174238</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.174238,-5.160379999999998,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS Mannanti NO</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS MANANTI</SimpleData>
+						<SimpleData name="unnamed_2">-5.26887</SimpleData>
+						<SimpleData name="unnamed_3">120.244449</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.244449,-5.268870000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS TAKALALA</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS TAKALALA</SimpleData>
+						<SimpleData name="unnamed_2">-5.223608</SimpleData>
+						<SimpleData name="unnamed_3">120.310703</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.310703,-5.223608000000011,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS SUKAMAJU</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_placemark_square3</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS SUKAMAJU</SimpleData>
+						<SimpleData name="unnamed_2">-5.248459</SimpleData>
+						<SimpleData name="unnamed_3">120.266151</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.266151,-5.248458999999997,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS SERRE</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_placemark_square4</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS SERRE</SimpleData>
+						<SimpleData name="unnamed_2">-5.207487</SimpleData>
+						<SimpleData name="unnamed_3">120.181112</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.1791969573471,-5.205586989606745,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS SAMAENRE</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS SAMAENRE</SimpleData>
+						<SimpleData name="unnamed_2">-5.160171</SimpleData>
+						<SimpleData name="unnamed_3">120.173506</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.173506,-5.160170999999991,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS PERBATASAN</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_placemark_square20</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS PERBATASAN</SimpleData>
+						<SimpleData name="unnamed_2">-5.236845</SimpleData>
+						<SimpleData name="unnamed_3">120.04605</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.04605,-5.236844999999981,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS PAKITTA</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS PAKITTA</SimpleData>
+						<SimpleData name="unnamed_2">-5.151261</SimpleData>
+						<SimpleData name="unnamed_3">120.220653</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.2286462525172,-5.168571110996804,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS MANIMPAHOI</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS MANIMPAHOI</SimpleData>
+						<SimpleData name="unnamed_2">-5.192267</SimpleData>
+						<SimpleData name="unnamed_3">120.110377</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.110377,-5.19226699999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS MACONGGI</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS MACONGGI</SimpleData>
+						<SimpleData name="unnamed_2">-5.150779</SimpleData>
+						<SimpleData name="unnamed_3">120.219905</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.2182070436105,-5.150250962064541,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS LEMBANNA</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS LEMBANNA</SimpleData>
+						<SimpleData name="unnamed_2">-5.253634</SimpleData>
+						<SimpleData name="unnamed_3">119.991018</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>119.9910114841447,-5.253625367364647,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS LANCIBUNG 2</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS LANCIBUNG 2</SimpleData>
+						<SimpleData name="unnamed_2">-5.205439</SimpleData>
+						<SimpleData name="unnamed_3">120.177393</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.1773849396106,-5.20538530560037,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS KOMPANG</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS KOMPANG</SimpleData>
+						<SimpleData name="unnamed_2">-5.210818</SimpleData>
+						<SimpleData name="unnamed_3">120.082846</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.082846,-5.210817999999994,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS KAMPALA</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS KAMPALA</SimpleData>
+						<SimpleData name="unnamed_2">-5.150145</SimpleData>
+						<SimpleData name="unnamed_3">120.220103</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.220103,-5.150145000000013,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS BIKERU</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_open-diamond00</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS BIKERU</SimpleData>
+						<SimpleData name="unnamed_2">-5.258335</SimpleData>
+						<SimpleData name="unnamed_3">120.1589</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.1597507707057,-5.258407063967597,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS KAMPUNG BARU</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_open-diamond0</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS KAMPUNG BARU</SimpleData>
+						<SimpleData name="unnamed_2">-5.326831</SimpleData>
+						<SimpleData name="unnamed_3">120.066905</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.0671431982842,-5.32722480287052,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS BATU LAPPA</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS BATU LAPPA</SimpleData>
+						<SimpleData name="unnamed_2">-5.137242</SimpleData>
+						<SimpleData name="unnamed_3">120.253402</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.253402,-5.137241999999979,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS APARENG (NO)</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS APARENG</SimpleData>
+						<SimpleData name="unnamed_2">-5.272202</SimpleData>
+						<SimpleData name="unnamed_3">120.161544</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.161544,-5.272201999999993,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS AJU COLOE</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS AJU COLOE</SimpleData>
+						<SimpleData name="unnamed_2">-5.195697</SimpleData>
+						<SimpleData name="unnamed_3">120.19153</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.19153,-5.195696999999997,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS PASIR PUTIH</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS PASIR PUTIH</SimpleData>
+						<SimpleData name="unnamed_2">-5.325017</SimpleData>
+						<SimpleData name="unnamed_3">120.065181</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.065181,-5.325017000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS PANRENG</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS PANRENG</SimpleData>
+						<SimpleData name="unnamed_2">-5.107022</SimpleData>
+						<SimpleData name="unnamed_3">120.227629</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.2274048383215,-5.107246052652983,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS CINRANAE</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS CINRANAE</SimpleData>
+						<SimpleData name="unnamed_2">-5.108159</SimpleData>
+						<SimpleData name="unnamed_3">120.200768</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.200768,-5.108158999999997,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS MATUMPU</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS MATUMPU</SimpleData>
+						<SimpleData name="unnamed_2">-5.109274</SimpleData>
+						<SimpleData name="unnamed_3">120.243794</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.243794,-5.109274000000006,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LBS GH SINJAI</name>
+				<visibility>0</visibility>
+				<styleUrl>#pointStyleMap6100101</styleUrl>
+				<ExtendedData>
+					<SchemaData schemaUrl="#S_Copy_of_LBS__26_SECT_ULP_SINJAI_SSS0">
+						<SimpleData name="unnamed">LBS GH SINJAI</SimpleData>
+						<SimpleData name="unnamed_2">-5.121066</SimpleData>
+						<SimpleData name="unnamed_3">120.250974</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>120.2501376566966,-5.120924297214287,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>GH TANGKA</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>INC EKSPRESS TANGKA</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>120.0127005811642</longitude>
+					<latitude>-5.205888944087543</latitude>
+					<altitude>0</altitude>
+					<heading>-3.068175518421606</heading>
+					<tilt>0</tilt>
+					<range>59.01540637669335</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin84</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>120.012615641249,-5.205906168420776,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>OUT_TASSILILU</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>120.0127005811642</longitude>
+					<latitude>-5.205888944087543</latitude>
+					<altitude>0</altitude>
+					<heading>-3.068175518421606</heading>
+					<tilt>0</tilt>
+					<range>59.01540637669335</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin84</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>120.0126016706925,-5.205887000228967,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>OUT_TOMBOLO</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>120.0127005811642</longitude>
+					<latitude>-5.205888944087543</latitude>
+					<altitude>0</altitude>
+					<heading>-3.068175518421606</heading>
+					<tilt>0</tilt>
+					<range>59.01540637669335</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin84</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>120.0126084087445,-5.205917487632349,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>GH SINJAI</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>PMT INC LITHA</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>120.2501877634447</longitude>
+					<latitude>-5.121025863145581</latitude>
+					<altitude>0</altitude>
+					<heading>-1.924382945462585</heading>
+					<tilt>0</tilt>
+					<range>69.84178727190175</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_P10</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>120.2503284544328,-5.121119868293863,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PMT OUT_Bikeru</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>120.2501877634447</longitude>
+					<latitude>-5.121025863145581</latitude>
+					<altitude>0</altitude>
+					<heading>-1.924382945462585</heading>
+					<tilt>0</tilt>
+					<range>69.84178727190175</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_P10</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>120.2503284544328,-5.121119868293863,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PMT INC LAMATTI</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>120.250300290337</longitude>
+					<latitude>-5.121015395858649</latitude>
+					<altitude>0</altitude>
+					<heading>-0.008905945181690973</heading>
+					<tilt>0</tilt>
+					<range>70.79457070400845</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_P10</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>120.2502883084337,-5.121099027475986,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PMT OUT_Marbo</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>120.250195879711</longitude>
+					<latitude>-5.121041606902575</latitude>
+					<altitude>0</altitude>
+					<heading>-0.007831820576533498</heading>
+					<tilt>0</tilt>
+					<range>70.39446229115958</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_P10</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>120.2503004858094,-5.12110275200086,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PMT BALANGNIPA (NO)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>120.2504810450739</longitude>
+					<latitude>-5.12114719708415</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002436428143389526</heading>
+					<tilt>0</tilt>
+					<range>54.48942196259044</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_P10</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>120.2503294921079,-5.121105550433906,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

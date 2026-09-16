@@ -1,0 +1,1282 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2514197265327,
+          -5.121209548244849,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DS OUT BIKERU",
+        "visibility": false,
+        "styleUrl": "#msn_target5",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 3,
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/target.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.177878,
+          -5.205295000000014,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SECT BAKSO",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap61001010",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "unnamed": "SECT BAKSO",
+        "unnamed_2": "-5.205295",
+        "unnamed_3": "120.177878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0898120734678,
+          -5.325157912116381,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SECT ASSIPETUNGE (NO)",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap61001010",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "unnamed": "RECLOSER ASSIPETUNGE",
+        "unnamed_2": "-5.325178",
+        "unnamed_3": "120.089741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.259199,
+          -5.136259999999984,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SECT TUI",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap61001010",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "unnamed": "SECT TUI",
+        "unnamed_2": "-5.13626",
+        "unnamed_3": "120.259199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.249013,
+          -5.135656000000008,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SECT BIRINGERE",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap61001010",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "unnamed": "SECT BIRING ERE",
+        "unnamed_2": "-5.135656",
+        "unnamed_3": "120.249013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.259017,
+          -5.115711999999995,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SECT SUNGAI TANGKA",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap61001010",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "unnamed": "SECT SUNGAI TANGKA",
+        "unnamed_2": "-5.115712",
+        "unnamed_3": "120.259017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26379,
+          -5.116457999999988,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SECT LAPPA",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap61001010",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "unnamed": "SECT LAPPA",
+        "unnamed_2": "-5.116458",
+        "unnamed_3": "120.26379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.256653,
+          -5.118211999999991,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SECT PRAMUKA",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap61001010",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "unnamed": "SECT PRAMUKA",
+        "unnamed_2": "-5.118212",
+        "unnamed_3": "120.256653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.177034,
+          -5.21029599999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SECT LANCIBUNG 1",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap61001010",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "unnamed": "SECT LANCIBUNG 1",
+        "unnamed_2": "-5.210296",
+        "unnamed_3": "120.177034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.111289692573,
+          -5.191216223561867,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SECT SAOHIRING",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap61001010",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "unnamed": "SECT SAOHIRING",
+        "unnamed_2": "-5.205295",
+        "unnamed_3": "120.177878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.013956,
+          -5.233756999999994,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SECT BONDU",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap61001010",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "unnamed": "SECT BONDU",
+        "unnamed_2": "-5.233757",
+        "unnamed_3": "120.013956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.11152,
+          -5.191151999999981,
+          0
+        ]
+      },
+      "properties": {
+        "name": "REC MUSABAQAH",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap00200",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/square.png",
+        "unnamed": "RECLOSER MUSABAQAH",
+        "unnamed_2": "-5.191152",
+        "unnamed_3": "120.11152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1505991168276,
+          -5.290494878322808,
+          0
+        ]
+      },
+      "properties": {
+        "name": "REC BALPES",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap00200",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.178112,
+          -5.156189000000015,
+          0
+        ]
+      },
+      "properties": {
+        "name": "REC SAMAENRE (RUSAK)",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap00200",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/square.png",
+        "unnamed": "RECLOSER SAMAENRE",
+        "unnamed_2": "-5.156189",
+        "unnamed_3": "120.178112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.276963,
+          -5.17940400000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "REC MARANA",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap00200",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/square.png",
+        "unnamed": "RECLOSER MARANA",
+        "unnamed_2": "-5.179404",
+        "unnamed_3": "120.276963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1556908377567,
+          -5.171084125050585,
+          0
+        ]
+      },
+      "properties": {
+        "name": "REC TALLE",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap00200",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.220715,
+          -5.151202000000019,
+          0
+        ]
+      },
+      "properties": {
+        "name": "REC TONDONG",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap00200",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/square.png",
+        "unnamed": "RECLOSER TONDONG",
+        "unnamed_2": "-5.151202",
+        "unnamed_3": "120.220715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.151018,
+          -5.168757000000008,
+          0
+        ]
+      },
+      "properties": {
+        "name": "REC KAROBBI",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap00200",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/square.png",
+        "unnamed": "RECLOSER KAROBBI",
+        "unnamed_2": "-5.168757",
+        "unnamed_3": "120.151018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2556056281975,
+          -5.120578210197126,
+          0
+        ]
+      },
+      "properties": {
+        "name": "REC PERSATUAN RAYA",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap00200",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/square.png",
+        "unnamed": "RECLOSER PERSATUAN RAYA",
+        "unnamed_2": "-5.120201",
+        "unnamed_3": "120.255428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.226097,
+          -5.105281999999982,
+          0
+        ]
+      },
+      "properties": {
+        "name": "REC BULUPODDO",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap00200",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/square.png",
+        "unnamed": "RECLOSER BULUPODDO",
+        "unnamed_2": "-5.105282",
+        "unnamed_3": "120.226097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.070375,
+          -5.347032000000008,
+          0
+        ]
+      },
+      "properties": {
+        "name": "REC MUNTE",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap00200",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/square.png",
+        "unnamed": "LBS MUNTE",
+        "unnamed_2": "-5.347032",
+        "unnamed_3": "120.070375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.007194,
+          -5.254095999999997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "REC GUNUNG PERAK",
+        "visibility": false,
+        "styleUrl": "#msn_square900",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/square.png",
+        "unnamed": "LBS GUNUNG PERAK",
+        "unnamed_2": "-5.254096",
+        "unnamed_3": "120.007194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.163485,
+          -5.274064000000019,
+          0
+        ]
+      },
+      "properties": {
+        "name": "REC KALOBBA (NC)",
+        "visibility": false,
+        "description": "NC",
+        "styleUrl": "#pointStyleMap00200",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/square.png",
+        "unnamed": "LBS JATIE",
+        "unnamed_2": "-5.274064",
+        "unnamed_3": "120.163485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2476518952296,
+          -5.136910860768542,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS SMA",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.155793880912,
+          -5.173245404337061,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS TALLE",
+        "visibility": false,
+        "description": "NO",
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.174238,
+          -5.160379999999998,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS EXPRESS",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS EXPRESS",
+        "unnamed_2": "-5.16038",
+        "unnamed_3": "120.174238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.244449,
+          -5.268870000000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS Mannanti NO",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS MANANTI",
+        "unnamed_2": "-5.26887",
+        "unnamed_3": "120.244449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.310703,
+          -5.223608000000011,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS TAKALALA",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS TAKALALA",
+        "unnamed_2": "-5.223608",
+        "unnamed_3": "120.310703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.266151,
+          -5.248458999999997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS SUKAMAJU",
+        "visibility": false,
+        "styleUrl": "#msn_placemark_square3",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "unnamed": "LBS SUKAMAJU",
+        "unnamed_2": "-5.248459",
+        "unnamed_3": "120.266151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1791969573471,
+          -5.205586989606745,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS SERRE",
+        "visibility": false,
+        "styleUrl": "#msn_placemark_square4",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "unnamed": "LBS SERRE",
+        "unnamed_2": "-5.207487",
+        "unnamed_3": "120.181112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.173506,
+          -5.160170999999991,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS SAMAENRE",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS SAMAENRE",
+        "unnamed_2": "-5.160171",
+        "unnamed_3": "120.173506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.04605,
+          -5.236844999999981,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS PERBATASAN",
+        "visibility": false,
+        "styleUrl": "#msn_placemark_square20",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "unnamed": "LBS PERBATASAN",
+        "unnamed_2": "-5.236845",
+        "unnamed_3": "120.04605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2286462525172,
+          -5.168571110996804,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS PAKITTA",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS PAKITTA",
+        "unnamed_2": "-5.151261",
+        "unnamed_3": "120.220653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.110377,
+          -5.19226699999999,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS MANIMPAHOI",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS MANIMPAHOI",
+        "unnamed_2": "-5.192267",
+        "unnamed_3": "120.110377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2182070436105,
+          -5.150250962064541,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS MACONGGI",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS MACONGGI",
+        "unnamed_2": "-5.150779",
+        "unnamed_3": "120.219905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9910114841447,
+          -5.253625367364647,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS LEMBANNA",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS LEMBANNA",
+        "unnamed_2": "-5.253634",
+        "unnamed_3": "119.991018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1773849396106,
+          -5.20538530560037,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS LANCIBUNG 2",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS LANCIBUNG 2",
+        "unnamed_2": "-5.205439",
+        "unnamed_3": "120.177393"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.082846,
+          -5.210817999999994,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS KOMPANG",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS KOMPANG",
+        "unnamed_2": "-5.210818",
+        "unnamed_3": "120.082846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.220103,
+          -5.150145000000013,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS KAMPALA",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS KAMPALA",
+        "unnamed_2": "-5.150145",
+        "unnamed_3": "120.220103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1597507707057,
+          -5.258407063967597,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS BIKERU",
+        "visibility": false,
+        "styleUrl": "#msn_open-diamond00",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS BIKERU",
+        "unnamed_2": "-5.258335",
+        "unnamed_3": "120.1589"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0671431982842,
+          -5.32722480287052,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS KAMPUNG BARU",
+        "visibility": false,
+        "styleUrl": "#msn_open-diamond0",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS KAMPUNG BARU",
+        "unnamed_2": "-5.326831",
+        "unnamed_3": "120.066905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.253402,
+          -5.137241999999979,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS BATU LAPPA",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS BATU LAPPA",
+        "unnamed_2": "-5.137242",
+        "unnamed_3": "120.253402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.161544,
+          -5.272201999999993,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS APARENG (NO)",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS APARENG",
+        "unnamed_2": "-5.272202",
+        "unnamed_3": "120.161544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19153,
+          -5.195696999999997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS AJU COLOE",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS AJU COLOE",
+        "unnamed_2": "-5.195697",
+        "unnamed_3": "120.19153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.065181,
+          -5.325017000000001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS PASIR PUTIH",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS PASIR PUTIH",
+        "unnamed_2": "-5.325017",
+        "unnamed_3": "120.065181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2274048383215,
+          -5.107246052652983,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS PANRENG",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS PANRENG",
+        "unnamed_2": "-5.107022",
+        "unnamed_3": "120.227629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.200768,
+          -5.108158999999997,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS CINRANAE",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS CINRANAE",
+        "unnamed_2": "-5.108159",
+        "unnamed_3": "120.200768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.243794,
+          -5.109274000000006,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS MATUMPU",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS MATUMPU",
+        "unnamed_2": "-5.109274",
+        "unnamed_3": "120.243794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2501376566966,
+          -5.120924297214287,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS GH SINJAI",
+        "visibility": false,
+        "styleUrl": "#pointStyleMap6100101",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png",
+        "unnamed": "LBS GH SINJAI",
+        "unnamed_2": "-5.121066",
+        "unnamed_3": "120.250974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.012615641249,
+          -5.205906168420776,
+          0
+        ]
+      },
+      "properties": {
+        "name": "INC EKSPRESS TANGKA",
+        "visibility": false,
+        "styleUrl": "#m_ylw-pushpin84",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/polygon.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0126016706925,
+          -5.205887000228967,
+          0
+        ]
+      },
+      "properties": {
+        "name": "OUT_TASSILILU",
+        "visibility": false,
+        "styleUrl": "#m_ylw-pushpin84",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/polygon.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0126084087445,
+          -5.205917487632349,
+          0
+        ]
+      },
+      "properties": {
+        "name": "OUT_TOMBOLO",
+        "visibility": false,
+        "styleUrl": "#m_ylw-pushpin84",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/polygon.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2503284544328,
+          -5.121119868293863,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PMT INC LITHA",
+        "visibility": false,
+        "styleUrl": "#msn_P10",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/polygon.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2503284544328,
+          -5.121119868293863,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PMT OUT_Bikeru",
+        "visibility": false,
+        "styleUrl": "#msn_P10",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/polygon.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2502883084337,
+          -5.121099027475986,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PMT INC LAMATTI",
+        "visibility": false,
+        "styleUrl": "#msn_P10",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/polygon.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2503004858094,
+          -5.12110275200086,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PMT OUT_Marbo",
+        "visibility": false,
+        "styleUrl": "#msn_P10",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/polygon.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2503294921079,
+          -5.121105550433906,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PMT BALANGNIPA (NO)",
+        "visibility": false,
+        "styleUrl": "#msn_P10",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/polygon.png"
+      }
+    }
+  ],
+  "name": "KEYPOINT SINJAI.kml"
+}

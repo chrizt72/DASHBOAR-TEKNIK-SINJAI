@@ -1,0 +1,3189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.242852424099,
+          -5.121229618985676,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KANTOR BUPATI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2509087532395,
+          -5.098661227434613,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BENTENG",
+        "visibility": false,
+        "styleUrl": "#msn_placemark_square00",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2570791497792,
+          -5.113648887202543,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO COLD STORAGE",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_placemark_square00",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2517770762113,
+          -5.120895805877764,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TAMAN DEMMA",
+        "visibility": false,
+        "styleUrl": "#msn_F190001",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2503310913298,
+          -5.121109531503123,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PMT INC BALANGNIPA (NO)",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2703359820977,
+          -5.107622533675968,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KALAMPETO",
+        "visibility": false,
+        "styleUrl": "#msn_F190000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2461682238357,
+          -5.133056269754299,
+          0
+        ]
+      },
+      "properties": {
+        "name": "CO Taipa",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2491779531877,
+          -5.120615463560606,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KOLAM RENANG",
+        "visibility": false,
+        "styleUrl": "#msn_placemark_square00",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2526123048844,
+          -5.127118667152817,
+          0
+        ]
+      },
+      "properties": {
+        "name": "CO DINKES",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2392944109596,
+          -5.09347630087175,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DS LAPPA",
+        "visibility": false,
+        "description": "Di bawah DS LITHA",
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2483298692932,
+          -5.127892699324107,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DS INC LAPPA PREMIUM RSUD",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2504463964784,
+          -5.121005320777892,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DS BALANGNIPA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1365765620539,
+          -5.097980623236574,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BULU TELLUE",
+        "visibility": false,
+        "styleUrl": "#msn_placemark_square",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1283148363791,
+          -5.119306663709921,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO LANGORI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.129015858387,
+          -5.121359822463633,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TONROE",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_placemark_square00",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1348157540237,
+          -5.125243400694217,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TANA TOAE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2389346009507,
+          -5.093614777959333,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DS LAMATTIRILAU",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1342985970254,
+          -5.097421769254406,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO SATENGNGA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1296321502879,
+          -5.084994085775406,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO PALIMPOE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1267091398157,
+          -5.087690765256576,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TOMPOBULU",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1018019695958,
+          -5.097528399883964,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BULO",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2267234986154,
+          -5.108078273748538,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO Tokka",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1773022432056,
+          -5.110891148353636,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO JERRUNG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.156779963643,
+          -5.102392740706751,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BARANG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1162329411871,
+          -5.120353192275527,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO LAIYA",
+        "visibility": false,
+        "styleUrl": "#msn_F190002",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2501381780592,
+          -5.120926286583459,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DS INC LAMATTIRILAU",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0125405738471,
+          -5.205914232776575,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DS GH TANGKA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2388122947464,
+          -5.093482666211452,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DS EKSPRESS TANGKA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2501655218785,
+          -5.120956959224126,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DS INC LITHA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2393079384854,
+          -5.093470492204326,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DS LITHA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1089528555157,
+          -5.308824078970194,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO SAFULAMBERE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1243664628504,
+          -5.302680899333319,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BARU",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1590786045616,
+          -5.265168552663702,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BONTO PEDDA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0779617597591,
+          -5.243623316468567,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BATU PALLA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1282148635123,
+          -5.207723358207062,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO SAOTANRE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0948407413266,
+          -5.22111760435414,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO CODDONG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1384666511831,
+          -5.154957747263746,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO CAILE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.169161292909,
+          -5.202482034042537,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO CAMMERU",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.155343754057,
+          -5.204009623416557,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO GARECCING",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2403866449156,
+          -5.145167334921244,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BAKAE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2191700984586,
+          -5.146229326916552,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BONGKI LENGKESE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2107308687585,
+          -5.214137347856378,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO PALAE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2005892433827,
+          -5.19058665678104,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO CAMMERU 2",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2301301720943,
+          -5.213842142303021,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BIRORO",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2255200160376,
+          -5.215714383003029,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO PABRIK BATU",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_placemark_square10",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.227463848236,
+          -5.160268083287833,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO SALOHE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2214069543099,
+          -5.154368303945114,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KOLASA",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_F190000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2282898867905,
+          -5.199779642149927,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO JENNA ASKA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2669713991641,
+          -5.208968523225685,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KORASA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2600940162278,
+          -5.199689428823866,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO LASIAI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2613765714248,
+          -5.181481960417312,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BUAKANG",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_placemark_square10",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2193347373895,
+          -5.211947020484144,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KALAMISU",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2387301584337,
+          -5.216124493399275,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BARAE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2140175825949,
+          -5.135578730481349,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BONGKI LENGKESE 2",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1964578804078,
+          -5.130298842408125,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO PALIE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1105662308136,
+          -5.252846760281172,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO POLEWALI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1736097077374,
+          -5.180572066780001,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO LAPPA DUMME",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png",
+        "x": -5.18077,
+        "y": 120.173,
+        "e": 248.062,
+        "ket": "FCO",
+        "tgl": "14 Jun 2023 15.36.20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1795961385557,
+          -5.153766146499647,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BONGKONG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1796686221334,
+          -5.152250707379578,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO MATTUNRENG TELLUE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1715271041751,
+          -5.134211063128385,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TOPISI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1198409831976,
+          -5.183165080494786,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KALELENG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.106027833802,
+          -5.175634302531636,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BONTO",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1096726823089,
+          -5.168118540778754,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KESSI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1088327246486,
+          -5.155004822153781,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO PEPARA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0898420741259,
+          -5.205972283531788,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TAPILASA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0864927274168,
+          -5.202685103628918,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO LAPPARA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1544992330634,
+          -5.172476142971663,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO DESA BARU",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1034751270333,
+          -5.21762734256916,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO HALIMPING",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.152330493283,
+          -5.1961980102266,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BULU KAMASE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2180991777262,
+          -5.21325632215233,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BALLA KALE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2108569040804,
+          -5.181422240496317,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TOPANGKA",
+        "visibility": false,
+        "styleUrl": "#msn_placemark_square01",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1718872805166,
+          -5.229175514334715,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO ANNIE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1711780148618,
+          -5.229264288744067,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO GARECCING",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1666607742069,
+          -5.244908898111514,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO RSUD",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1472324974892,
+          -5.257216879576425,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO PUNCAK",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1464198252049,
+          -5.255849050209919,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO SONGING",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1151502606014,
+          -5.259172869048794,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO JENNA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0922297992356,
+          -5.258217086046423,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO LENGKESE",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_placemark_square100",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1142562804025,
+          -5.253578859255432,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO MATTOANGING",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1446612680848,
+          -5.250735016390349,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO LEPPANG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1419072453125,
+          -5.251978338118493,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO GOVA",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_placemark_square01",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2280234920652,
+          -5.165904811697008,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KALOLING",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2009673990113,
+          -5.190361915478629,
+          0
+        ]
+      },
+      "properties": {
+        "name": "CO LABETTANG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1604656726494,
+          -5.253506450453585,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO PASAR BIKERU",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1579192807712,
+          -5.25437848968067,
+          0
+        ]
+      },
+      "properties": {
+        "name": "LBS MTZ SONGING",
+        "visibility": false,
+        "styleUrl": "#msn_open-diamond",
+        "icon-opacity": 1,
+        "icon-color": "#ffff00",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/open-diamond.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1029124853912,
+          -5.184782854950294,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO Tangkulu",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1063054024751,
+          -5.187791422928592,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO SAOHIRING",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_placemark_square10",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1103622529714,
+          -5.192291803763302,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO LEMBANGE",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_placemark_square100",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.10161,
+          -5.2003,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO LITA LITAE",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_placemark_square1",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0606597446454,
+          -5.232395033729832,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO SD 66",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2483302687985,
+          -5.127893056734797,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DS INC OUT BIKERU",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2690292193933,
+          -5.16321717627887,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BABANA",
+        "visibility": false,
+        "styleUrl": "#msn_placemark_square2",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2733395496848,
+          -5.169836473822747,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BARINGENG",
+        "visibility": false,
+        "styleUrl": "#msn_placemark_square2",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3090643951046,
+          -5.227937422737119,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TURUNENG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3092097060217,
+          -5.231266873360056,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO PATTONGKO",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3200320456261,
+          -5.244645461788896,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TAI BESSIE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3273108925104,
+          -5.270915614029458,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO PAKKA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3316129811861,
+          -5.2894812554318,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TALISE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2886730544035,
+          -5.244772369979189,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BANOA 2",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2650761738322,
+          -5.249136183183685,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BANOA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2627897729877,
+          -5.255575923216004,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BT TAPPALANG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2562862459041,
+          -5.267567930295835,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BT KUNYI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2667175745035,
+          -5.273309985053957,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO PAKOKKO",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.25273915463,
+          -5.267585856408945,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO LEMBANG SAUKANG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2530827521175,
+          -5.270402342842011,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO CANTIK",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2502941758709,
+          -5.121100585422528,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PMT OUT MARBO",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.292285370507,
+          -5.248406710819279,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO PASISIKAN",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2678341853412,
+          -5.273062988305541,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO MACCONGGI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2804190855823,
+          -5.270346378927329,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BATU SANTUNG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2504397570955,
+          -5.121005335982495,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DS OUT MARBO",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0651419554309,
+          -5.130821009031544,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO SOPPENG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9875830711616,
+          -5.259424656127996,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BATULEPPA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.987998447725,
+          -5.265826441567654,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO MADDAKKO",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0277820462215,
+          -5.16329179314935,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO CENRE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0320657644977,
+          -5.192154861192386,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO MAGALA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0451075117835,
+          -5.164639271345846,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TURUNANG BAJI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0454657055908,
+          -5.163417493529791,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TERASA 1",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0391288277549,
+          -5.153775170105487,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TERASA 2",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0392096695079,
+          -5.150338063337312,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO LAHA - LAHA 2",
+        "visibility": false,
+        "styleUrl": "#msn_placemark_square00",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0380917558898,
+          -5.147804888274957,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO LAHA - LAHA 1",
+        "visibility": false,
+        "styleUrl": "#msn_placemark_square00",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0145271031975,
+          -5.256209413275931,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO AMBI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0414889701543,
+          -5.152534799965595,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO Kantor Desa",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0144916362754,
+          -5.229689356252147,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO Bondu",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0136812474235,
+          -5.238496438045506,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KASUARANG",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_placemark_square00",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0125238350753,
+          -5.205898189228628,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DS OUT TASSILILU",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2367642848234,
+          -5.268574656992381,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO PAKKITA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2329693334568,
+          -5.271877709722764,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TELLULIMPOE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2284833122588,
+          -5.281398537449493,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO MANAJO",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_placemark_square100",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2234705760514,
+          -5.276500111976904,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BT MANGAPE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1995937416178,
+          -5.289401317961688,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TORIBI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1904783761568,
+          -5.304079453852228,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BORONG AMPIRIE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2087454123205,
+          -5.234560208485638,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO URANGA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1841780326859,
+          -5.264194367339607,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO MATTOANGING",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1793613042378,
+          -5.286148555934822,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BORO KALUKUE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1800666456797,
+          -5.277678272575892,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO MASSAILE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1803976456897,
+          -5.277487239693883,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO LEMBANG LOHE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2357090999414,
+          -5.241686198304,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TIPPULUE",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_placemark_square0",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1701343440957,
+          -5.279512026310212,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KALOBBA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1627457071862,
+          -5.273767880212296,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KORONG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0328538378451,
+          -5.317358709053708,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO MACCINI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.053812775079,
+          -5.338942531514205,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BATU",
+        "visibility": false,
+        "styleUrl": "#msn_placemark_square0",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0389360972308,
+          -5.322870513554364,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO MATTIROWALIE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0328212714204,
+          -5.311492628524952,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KALIMBU",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0342657867884,
+          -5.307890425288806,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BARAMBANG",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0538435474621,
+          -5.278561031717217,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO MASSOMPO",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0572135301763,
+          -5.271698120244312,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BOLA LANGIRI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0581658875303,
+          -5.274323151075895,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO HIRING APPARENG",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_F1900",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0609729365194,
+          -5.270830242026063,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO MAROANGIN",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_F1900",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0577866240409,
+          -5.2712256223822,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO GORI-GORI",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_F1900",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0662143114988,
+          -5.298285815080262,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO SAMAENRE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0664244516016,
+          -5.299292368700265,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BONGKI - BONGKI",
+        "visibility": false,
+        "styleUrl": "#msn_placemark_square2",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0733701942543,
+          -5.311582085280665,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BONTOSINALA",
+        "visibility": false,
+        "open": "1",
+        "styleUrl": "#msn_F1900",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0432930237634,
+          -5.332587468600538,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO ILI",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0740460559673,
+          -5.298548905118063,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO KARUMASSING",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0452032577888,
+          -5.294595984325821,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BT KATUTE",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0299308960644,
+          -5.311584769523633,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO TAHURA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0326753995953,
+          -5.305215517203188,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO JEPPARA",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0495841246657,
+          -5.302295793089359,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FCO BTS",
+        "visibility": false,
+        "styleUrl": "#msn_F19000",
+        "icon-opacity": 1,
+        "icon-color": "#ff0000",
+        "icon-scale": 1.2,
+        "icon": "http://maps.google.com/mapfiles/kml/shapes/placemark_square.png"
+      }
+    }
+  ],
+  "name": "FCO JARING SINJAI.kml"
+}

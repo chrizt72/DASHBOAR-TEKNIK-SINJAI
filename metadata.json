@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Dashboard Operasional \u0026 Pemeliharaan PLN Sinjai",
+  "description": "Dashboard monitoring kelistrikan terpadu PLN ULP Sinjai mencakup Monitoring Gangguan JTM, Master Gardu \u0026 Simulasi Beban, Monitoring ROW Harian, Pengaduan Individu, dan Peta Pelanggan KD Ayam GIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
